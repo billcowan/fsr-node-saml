@@ -1,0 +1,19 @@
+{
+  "name": "foresee-login",
+  "version": "1.0.0",
+  "description": "Node service for SAML2 Auth for Foresee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billcowan/fsr-node-saml.git"
+  },
+  "author": "bill.cowan@me.com anipendakur@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billcowan/fsr-node-saml/issues"
+  },
+  "homepage": "https://github.com/billcowan/fsr-node-saml#readme"
+}
